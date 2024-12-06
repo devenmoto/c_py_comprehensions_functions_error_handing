@@ -1,6 +1,6 @@
 def add(num1:int,num2:int):
     result = num1 + num2
-    print(result)
+    print(f"The results is: {result}")
     return result
 
 
